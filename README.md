@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **C++ and C#**
 
+- ⚙️ I currently am working for **Shiba Clicker**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Ryl4n](https://github.com/Ryl4n)
 
 - 💬 Ask me about **C#**
