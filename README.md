@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C#**
 
-- 📫 How to reach me **"rylan#1337" on discord**
+- 📫 How to reach me **"rylan#4162" on discord**
 
 - ⚡ Fun fact **I'm stupid**
 
