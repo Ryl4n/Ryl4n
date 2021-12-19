@@ -11,6 +11,6 @@
 
 - 💬 Ask me about **C#**
 
-- 📫 How to reach me **"rylan#3867" on discord**
+- 📫 How to reach me **"rylan#6666" on discord**
 
 - ⚡ Fun fact **idk**
